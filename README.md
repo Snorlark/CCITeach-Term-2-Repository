@@ -20,6 +20,6 @@ Welcome to the **CCITEACH Term 2 GitHub repository**! This repository is designe
 - Feel free to clone the repository and use the code for your own practice and assignments.
 
 ## 📬 Contact:
-For any questions or feedback, please reach out to https://www.facebook.com/gdsc.numanilacampus.
+For any questions or feedback, please reach out to [https://www.facebook.com/gdsc.numanilacampus.](https://www.facebook.com/gdgoc.numanila)
 
 Good Luck with Final Exams! 🎉
