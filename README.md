@@ -12,7 +12,7 @@ Welcome to the **CCITEACH Term 2 GitHub repository**! This repository is designe
     - 📦 Object Oriented Programming
   
 - **Mobile Programming:**
-  - Detailed implementations and explanations of a simple android lifecycle and API referencing:
+  - Detailed implementations and explanations of a simple android lifecycle, layuouts and API referencing with the use of Material UI
   
 ## 🚀 How to Use:
 - Browse the folders to access specific topics.
